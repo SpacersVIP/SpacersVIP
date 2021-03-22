@@ -19,7 +19,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1# - NuN xd
+1# - Astronyia
 <!--END_SECTION:activity-->
 
 </details>
