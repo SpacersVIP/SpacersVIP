@@ -7,10 +7,6 @@
 - 🔭 Trying To Learn How To Code In C#,C++ And More 
 - 🥅 2020 Goals: Just Not Be A Dick 🤣🤣🤣
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spacers.VIP Spotify Playing" width="350" />](https://open.spotify.com/user/f51f9z0qigmomt57uwts0m0pa?si=x5zzGMlFSn-OJ9y1yX4ZHA)
-
 <br />
 
 ---
