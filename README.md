@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/CTb98uK.gif" alt="We Are All A Dead Man Soon" width="250" />
 
-### Hi there, I'm Spacers - aka [Sacers.VIP][] 👋
+### Hi there, I'm Spacers - aka [Sacers.VIP] 👋
 
 - 🔭 Trying To Learn How To Code In C#,C++ And More 
 - 🥅 2020 Goals: Just Not Be A Dick 🤣🤣🤣
