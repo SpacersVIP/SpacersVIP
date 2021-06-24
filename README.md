@@ -15,7 +15,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1# - Astronyia
+1# - Blaze's Mod
+2# - FireGuard Discord Bot
 <!--END_SECTION:activity-->
 
 </details>
