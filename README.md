@@ -17,6 +17,7 @@
 <!--START_SECTION:activity-->
 - 1# - Blaze's Mod
 - 2# - FireGuard Discord Bot
+- 3# - Fusion Client
 <!--END_SECTION:activity-->
 
 </details>
