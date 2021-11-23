@@ -1,3 +1,5 @@
+<div align='center'>
+  
 ### We Will All Die Soon ### R.I.P LiL PeeP 1996 - 2017
 
 <img src="https://i.imgur.com/CTb98uK.gif" alt="We Are All A Dead Man Soon" width="250" />
@@ -21,3 +23,5 @@
 <!--END_SECTION:activity-->
 
 </details>
+  
+</div>
