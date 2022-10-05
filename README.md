@@ -7,22 +7,10 @@
 ### Hi there, I'm Spacers - aka [Sacers.VIP] 👋
 
 - 🔭 Trying To Learn How To Code In C#,C++ And More 
-- 🥅 2021 Goals: Just Not Be A Dick 🤣🤣🤣
 
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-- 1# - Blaze's Mod
-- 2# - FireGuard Discord Bot
-- 3# - Fusion Client
-<!--END_SECTION:activity-->
-
-</details>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpacersVIP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
